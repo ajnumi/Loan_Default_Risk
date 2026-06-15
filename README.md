@@ -1,2 +1,8 @@
-# Loan_Default_Risk
-Interactive Power BI dashboard analyzing loan default risk using demographic and financial factors.
+## Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)
+
+## EQUI Credit Type Investigation
+![EQUI Analysis](equi-credit-analysis.png)
+
+## Interactive Filtering Example
+![Filtered Analysis](filtered-analysis-example.png)
